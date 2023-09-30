@@ -83,5 +83,15 @@ body {}
     object-fit: cover; /* Maintain aspect ratio while covering the container */
   }
 
+/* header {
+  background: black;
+  opacity: 0.8;
+} */
+
+.scrolling {
+  background: black;
+  opacity: 0.9;
+  transition: all 0.5s;
+}
 
   
