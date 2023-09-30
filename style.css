@@ -82,4 +82,6 @@ body {}
     height: 100%; /* Make sure the image covers the container */
     object-fit: cover; /* Maintain aspect ratio while covering the container */
   }
+
+
   
