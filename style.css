@@ -9,13 +9,6 @@
 
 
 /*
- * Base structure
- */
-
-body {}
-
-
-/*
  * Header
  */
 
@@ -61,11 +54,6 @@ body {}
   border-bottom-color: #fff;
 }
 
-/* .img-fluid {
-    height: 400px;
-    width: 400px;
-    border-radius:50%;
-} */
 
 .square-container {
     width: 100%;
@@ -83,10 +71,6 @@ body {}
     object-fit: cover; /* Maintain aspect ratio while covering the container */
   }
 
-/* header {
-  background: black;
-  opacity: 0.8;
-} */
 
 .scrolling {
   background: black;
